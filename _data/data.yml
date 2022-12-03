@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ali Yazbek
+    tagline: Business Intelligence Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: yazbekali97@gmail.com
+    phone: 70 414 664
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: ali-yazbek
+    xing: Ali_Yazbek
+    github: TheGreatFable
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@mraliyazbek'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,22 +32,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Russian
           level: Native
 
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
+        - idiom: English
+          level: Professional
+
+        - idiom: Arabic
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Swimming
           link:
 
         - item: Cooking
@@ -56,18 +59,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ali M. Yazbek is a multicultural entrepreneur, financier, and information technology professional. He is a highly qualified individual specializing in enterprise systems, business intelligence, investments and financial services. He has knowledge in the areas of financial risk assessment, database system administration, business intelligence analysis, portfolio optimization and information technology management.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Computer Science
+        university: Institut Polytechnique de Paris
+        time: 2024 - 2027
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +74,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Management Information Systems
+        university: Sagesse University
+        time: 2015 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
