@@ -21,12 +21,12 @@ sidebar:
     xing: Ali_Yazbek
     github: TheGreatFable
     telegram: '@mraliyazbek'
-    gitlab: TheCrazyParadox
-    bitbucket: yazbekali
+    gitlab:
+    bitbucket:
     twitter: '@mraliyazbek'
     stack-overflow: 15548483/ali-yazbek
-    codewars: TheGreatFable
-    goodreads: 147632625-ali-yazbek
+    codewars:
+    goodreads:
     pdf: https://docs.google.com/document/d/16J0oDEB71FKXSDxSdidZC0pswZCKw4_r/edit?usp=share_link&ouid=105662742544461239865&rtpof=true&sd=true
 
     languages:
@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      IT professional with expertise in finance, business, and IT fields with a TechBacc in IT, a PGDip in finance from Kingston Business School in London, a BS and an MBA from Sagesse University, and an MSc in business informatics from the University of Bordeaux, 10+ verified certifications, and 2 industry publications. Specialized in enterprise systems and business intelligence.
+      IT professional with expertise in finance, business, and IT fields. Hold a TechBacc in IT, a PGDip in finance from Kingston Business School in London, a BS and an MBA from Sagesse University, and an MSc in business informatics from the University of Bordeaux. Completed 10+ verified certifications, and 2 industry publications. Specialized in enterprise systems and business intelligence.
 education:
     title: Education
     info:
@@ -99,25 +99,26 @@ experiences:
     title: Experiences
     info:
       - role: Information Technology Consultant 
-        time: 2015 - Present
+        time: 2013 - Present
         company: Freelance, Self-Employed 
         details: |
-          -	Supported people whenever they encountered challenges with computers and network devices
-          - Installed, configured and maintained software and hardware components of computer and network systems
-          - Provided users with training and information regarding the use of new systems
-      - role: Executive Assistant 
-        time: 2014 - 2015
-        company: Margarita Restaurant, Russia
-        details: |
-          - Booked business flights for senior management and liaised with clients and business guests
-          - Solved simple IT problems and contacted the IT department when necessary
+          -	Support people whenever they encounter challenges with computers and network devices
+          - Install, configure and maintain software and hardware components of computer and network systems
+          - Provide users with training and information regarding the use of new systems
       - role: Research Assistant
-        time: 2012 - 2014
+        time: 2024 - 2027
         company: Institut Polytechnique de Paris, France 
         details: |
           - Conducted research and summarized findings on project findings
           - Analysed data using various methods
           - Helped teachers with lesson preparation, including collecting materials and setting up equipment
+      - role: Executive Assistant 
+        time: 2016 - 2019
+        company: Margarita Restaurant, Russia
+        details: |
+          - Booked business flights for senior management and liaised with clients and business guests
+          - Solved simple IT problems and contacted the IT department when necessary
+
 projects:
     title: Projects
     intro: >
@@ -137,8 +138,6 @@ projects:
 
 oss:
     title: OSS Contributions
-    intro: >
-      This is a list of open source software contributions.
     contributions:
       - title: SaaS
         link: "https://github.com/TheGreatFable/SaaS"
@@ -154,18 +153,16 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      This is a list of publications. 
     papers:
       - title: Investigating the correlation of volatility movements in eight cryptocurrencies 
         link: "https://ssrn.com/abstract=4020551"
         authors: Ali Yazbek
-        conference: 2021
+        conference: SSRN, 2021
 
       - title: "Implementing a custom ERP in nine months and on budget with Cisco Systems"
         link: "https://ssrn.com/abstract=4020551"
         authors: Ali Yazbek
-        conference: 2022
+        conference: SSRN, 2022
 
 skills:
     title: Skills &amp; Proficiency
