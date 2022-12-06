@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ali Yazbek
+    name: Ali M. Yazbek
     tagline: Business Intelligence Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -20,7 +20,7 @@ sidebar:
     linkedin: ali-yazbek
     xing: Ali_Yazbek
     github: TheGreatFable
-    telegram: @mraliyazbek
+    telegram: '@mraliyazbek'
     gitlab: TheCrazyParadox
     bitbucket: yazbekali
     twitter: '@mraliyazbek'
@@ -50,7 +50,7 @@ sidebar:
         - item: Hiking
           link:
 
-        - item: Swimming
+        - item: Sketching
           link:
 
         - item: Cooking
@@ -178,7 +178,7 @@ skills:
         level: 75%
 
       - name: C/C++/C#
-        level: 98%
+        level: 85%
 
       - name: HTML5 & CSS
         level: 75%
@@ -186,8 +186,8 @@ skills:
       - name: MATLAB & R
         level: 65%
 
-      - name: Visual Studio & SQL Server
-        level: 90%
+      - name: Power BI & SQL Server
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/TheGreatFable" target="_blank" rel="nofollow">Ali Yazbek</a>
+    Designed by <a href="https://github.com/TheGreatFable" target="_blank" rel="nofollow">Ali Yazbek</a>
