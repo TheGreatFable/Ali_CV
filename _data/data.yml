@@ -15,19 +15,19 @@ sidebar:
     email: yazbekali97@gmail.com
     phone: 70 414 664
     timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    citizenship: Lebanon
+    website: thegreatfable.github.io/AboutAliYazbek/
     linkedin: ali-yazbek
     xing: Ali_Yazbek
     github: TheGreatFable
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    telegram: @mraliyazbek
+    gitlab: TheCrazyParadox
+    bitbucket: yazbekali
     twitter: '@mraliyazbek'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    stack-overflow: 15548483/ali-yazbek
+    codewars: TheGreatFable
+    goodreads: 147632625-ali-yazbek
+    pdf: https://docs.google.com/document/d/16J0oDEB71FKXSDxSdidZC0pswZCKw4_r/edit?usp=share_link&ouid=105662742544461239865&rtpof=true&sd=true
 
     languages:
       title: Languages
@@ -146,11 +146,11 @@ oss:
 
       - title: BSc
         link: "https://github.com/TheGreatFable/BSc"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A combination of Bachelor's Degree programming courses codes."
 
       - title: MSc
         link: "https://github.com/TheGreatFable/MSc"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A combination of Master's Degree programming courses codes."
 
 publications:
     title: Publications
