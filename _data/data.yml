@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ali M. Yazbek is a multicultural entrepreneur, financier, and information technology professional. He is a highly qualified individual specializing in enterprise systems, business intelligence, investments and financial services. He has knowledge in the areas of financial risk assessment, database system administration, business intelligence analysis, portfolio optimization and information technology management.
+      IT professional with expertise in finance, business, and IT fields with a TechBacc in IT, a PGDip in finance from Kingston Business School in London, a BS and an MBA from Sagesse University, and an MSc in business informatics from the University of Bordeaux, 10+ verified certifications, and 2 industry publications. Specialized in enterprise systems and business intelligence.
 education:
     title: Education
     info:
@@ -67,153 +67,127 @@ education:
         university: Institut Polytechnique de Paris
         time: 2024 - 2027
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: MSc in Business Informatics (Miage)
+        university: Sagesse University
+        time: 2022 - 2024
+        details: |
+            - Grade: 12.00 /20
+      - degree: MBA in Management Information Systems
+        university: Sagesse University
+        time: 2022 - 2024
+        details: |
+            - GPA: 3.00 /4.0
+      - degree: PGDip in Finance
+        university: Kingston University London
+        time: 2020 - 2021
+        details: |
+            - Classification: with Merit
+            - FHEQ/EQF/RQF level 7
       - degree: BSc in Management Information Systems
         university: Sagesse University
         time: 2015 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - GPA: 3.05 /4.0
+            - Dean's List
+      - degree: TechBacc in Information Technology
+        university: Institut Technique Al Kafaat
+        time: 2012 - 2015
+        details: |
+            - Grade: 12.32 /20
+            - Montion: Assez Bien
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Information Technology Consultant 
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Freelance, Self-Employed 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          -	Supported people whenever they encountered challenges with computers and network devices
+          - Installed, configured and maintained software and hardware components of computer and network systems
+          - Provided users with training and information regarding the use of new systems
+      - role: Executive Assistant 
         time: 2014 - 2015
-        company: Google, London
+        company: Margarita Restaurant, Russia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Research Assistant
         time: 2012 - 2014
-        company: Amazon, London
+        company: Institut Polytechnique de Paris, France 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Conducted research and summarized findings on project findings
+            - Analysed data using various methods
+            - Helped teachers with lesson preparation, including collecting materials and setting up equipment
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is the list of side projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Finance Portfolio
+        link: "https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link"
+        tagline: "Includes financial statement analysis, corporate finance, financial modelling, fixed income analysis, investment banking, portfolio theory."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Insurance Company Database
+        link: "https://github.com/TheGreatFable/BSc"
+        tagline: "Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Numerical Translator Application
+        link: "https://github.com/TheGreatFable/BSc"
+        tagline: "Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian)."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a list of open source software contributions.
     contributions:
-      - title: Tempo
-        link: "#"
+      - title: SaaS
+        link: "https://github.com/TheGreatFable/SaaS"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
+      - title: BSc
+        link: "https://github.com/TheGreatFable/BSc"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
+      - title: MSc
+        link: "https://github.com/TheGreatFable/MSc"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      This is a list of publications. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Investigating the correlation of volatility movements in eight cryptocurrencies 
+        link: "https://ssrn.com/abstract=4020551"
+        authors: Ali Yazbek
+        conference: 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Implementing a custom ERP in nine months and on budget with Cisco Systems"
+        link: "https://ssrn.com/abstract=4020551"
+        authors: Ali Yazbek
+        conference: 2022
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java & Javascript
+        level: 75%
 
-      - name: Angular
+      - name: C/C++/C#
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: MATLAB & R
+        level: 65%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Visual Studio & SQL Server
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/TheGreatFable" target="_blank" rel="nofollow">Ali Yazbek</a>
