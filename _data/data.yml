@@ -8,17 +8,17 @@ sidebar:
 
     # Profile information
     name: Ali M. Yazbek
-    tagline: Business Intelligence Developer
+    tagline: Information Technology Professional
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yazbekali97@gmail.com
     phone: 70 414 664
-    timezone: America/Cancun Timezone
+    timezone: Eastern European Standard Time
     citizenship: Lebanon
     website: thegreatfable.github.io/AboutAliYazbek/
     linkedin: ali-yazbek
-    xing: Ali_Yazbek
+    xing:
     github: TheGreatFable
     telegram: '@mraliyazbek'
     gitlab:
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 15548483/ali-yazbek
     codewars:
     goodreads:
-    pdf: https://docs.google.com/document/d/16J0oDEB71FKXSDxSdidZC0pswZCKw4_r/edit?usp=share_link&ouid=105662742544461239865&rtpof=true&sd=true
+    pdf: https://docs.google.com/document/d/1cNzu0kEG0IFbkI75CkRs6PbP5Y8ymIcO/edit?usp=sharing&ouid=105662742544461239865&rtpof=true&sd=true
 
     languages:
       title: Languages
@@ -53,7 +53,7 @@ sidebar:
         - item: Sketching
           link:
 
-        - item: Cooking
+        - item: Chess
           link:
 
 career-profile:
@@ -63,10 +63,6 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD in Computer Science
-        university: Institut Polytechnique de Paris
-        time: 2024 - 2027
-        details: |
       - degree: MSc in Business Informatics (Miage)
         university: Sagesse University
         time: 2022 - 2024
@@ -105,13 +101,6 @@ experiences:
           -	Support people whenever they encounter challenges with computers and network devices
           - Install, configure and maintain software and hardware components of computer and network systems
           - Provide users with training and information regarding the use of new systems
-      - role: Research Assistant
-        time: 2024 - 2027
-        company: Institut Polytechnique de Paris, France 
-        details: |
-          - Conducted research and summarized findings on project findings
-          - Analysed data using various methods
-          - Helped teachers with lesson preparation, including collecting materials and setting up equipment
       - role: Executive Assistant 
         time: 2016 - 2019
         company: Margarita Restaurant, Russia
